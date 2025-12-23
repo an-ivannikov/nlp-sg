@@ -1,0 +1,11 @@
+     <tr>
+     <td>
+<b></b><a href=$link$>$name$</a></b>
+     </td>
+     <td align=right><a href=#cmd_del_bookmark
+($number in a list$)
+                     ><img src=img/del.gif hspace=5 align=absmiddle>Удалить</a></td>
+     </tr>
+     <tr>
+     <td colspan=2 background=img/bgza.gif height=7></td>
+     </tr>
